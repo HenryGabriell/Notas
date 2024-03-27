@@ -9,10 +9,10 @@ function popup() {
     popupContainer.innerHTML = `
     <div id="popupContainer">
         <h1>New Note</h1>
-        <textarea id="note-text" placeholder="Enter your note..."></textarea>
+        <textarea id="note-text" placeholder="Escreva sua Nota..."></textarea>
         <div id="btn-container">
-            <button id="submitBtn" onclick="createNote()">Create Note</button>
-            <button id="closeBtn" onclick="closePopup()">Close</button>
+            <button id="submitBtn" onclick="createNote()">Criar Nota</button>
+            <button id="closeBtn" onclick="closePopup()">fechar</button>
         </div>
     </div>
     `;

@@ -1,7 +1,7 @@
 /* Main CSS */
 body {
     font-family: 'Poppins', sans-serif;
-    background-color: #8c53ff;
+    background-color: #8470ffd9;
     margin: 0;
     display: flex;
     align-items: center;
@@ -86,7 +86,7 @@ ul {
 }
 
 li {
-    background-color: #fff385;
+    background-color: #fff373;
     margin: 5px 0;
     padding: 20px;
     border-radius: 8px; /* Rounded corners */
@@ -103,10 +103,11 @@ li {
 }
 
 li span {
+    font-family:cursive;
     font-size: 12px;
     flex-grow: 1;
     word-wrap: break-word;
-    overflow-y: scroll;
+    white-space: pre-line;
 }
 
 #editBtn,
