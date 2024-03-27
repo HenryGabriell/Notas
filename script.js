@@ -88,8 +88,8 @@ function editNote(noteId) {
         <h1>Edit Note</h1>
         <textarea id="note-text">${noteText}</textarea>
         <div id="btn-container">
-            <button id="submitBtn" onclick="updateNote()">Done</button>
-            <button id="closeBtn" onclick="closeEditPopup()">Cancel</button>
+            <button id="submitBtn" onclick="updateNote()">Feito</button>
+            <button id="closeBtn" onclick="closeEditPopup()">Cancelar</button>
         </div>
     </div>
     `;
