@@ -85,7 +85,7 @@ function editNote(noteId) {
     
     editingPopup.innerHTML = `
     <div id="editing-container" data-note-id="${noteId}">
-        <h1>Edit Note</h1>
+        <h1>Editar Nota</h1>
         <textarea id="note-text">${noteText}</textarea>
         <div id="btn-container">
             <button id="submitBtn" onclick="updateNote()">Feito</button>
