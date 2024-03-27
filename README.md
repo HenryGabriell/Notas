@@ -7,7 +7,7 @@ html, css e JS
 <br>
 <br>
 <br>
-Da uma olhada:  https:/
+Da uma olhada: https://henrygabriell.github.io/Notas/
 <br>
 <hr>
 
